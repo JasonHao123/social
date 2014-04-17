@@ -1,0 +1,8 @@
+-Dhttp.proxyHost=pxsait3.srv.volvo.com
+-Dhttp.proxyPort=8080
+-Dhttp.proxyUser=v0cn181
+-Dhttp.proxyPassword=1qazxsw2
+-Dhttps.proxyHost=pxsait3.srv.volvo.com
+-Dhttps.proxyPort=8080
+-Dhttps.proxyUser=v0cn181
+-Dhttps.proxyPassword=1qazxsw2
