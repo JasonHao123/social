@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN" "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+
+<tiles-definitions>
+
+	<definition name="home" extends="page">
+		<put-attribute name="content" value="/WEB-INF/views/home.jsp" />
+	</definition>
+  
+  <definition name="signin" extends="page">
+    <put-attribute name="content" value="/WEB-INF/views/signin.jsp" />
+  </definition>
+  
+    <definition name="signup" extends="page">
+    <put-attribute name="content" value="/WEB-INF/views/signup.jsp" />
+  </definition>
+
+    <definition name="list" extends="page">
+    <put-attribute name="content" value="/WEB-INF/views/list.jsp" />
+  </definition>
+  
+      <definition name="edit" extends="page">
+    <put-attribute name="content" value="/WEB-INF/views/edit.jsp" />
+  </definition>
+  
+   <definition name="socialconnect" extends="page">
+    <put-attribute name="content" value="/WEB-INF/views/socialconnect.jsp" />
+  </definition>
+</tiles-definitions>
